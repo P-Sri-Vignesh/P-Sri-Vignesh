@@ -14,7 +14,6 @@ I'm currently building my foundations in computer science while developing pract
 ### 🚀 About Me
 
 - 🎓 Pursuing a degree in Artificial Intelligence & Data Science
-- 🐍 Completed Harvard's CS50P Python course
 - 💻 Learning C programming and strengthening my problem-solving skills
 - 📊 Exploring NumPy, pandas, and data analysis
 - 🧠 Beginning my journey into Data Structures & Algorithms
